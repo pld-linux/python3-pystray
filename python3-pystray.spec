@@ -7,7 +7,7 @@
 Summary:	This library allows you to create a system tray icon
 Name:		python3-%{module}
 Version:	0.17.3
-Release:	3
+Release:	4
 License:	LGPLv3+
 Group:		Libraries/Python
 Source0:	https://github.com/moses-palmer/pystray/archive/v%{version}/%{module}-%{version}.tar.gz
